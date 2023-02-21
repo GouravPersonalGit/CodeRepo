@@ -5,8 +5,8 @@ public class searchPage {
 		
 		System.out.println("We are in search page");
 		System.out.println("Bye");
-
 		int a=12;
+		System.out.println("showing a"+a);
 		// Scripting for search feature
 	}
 
