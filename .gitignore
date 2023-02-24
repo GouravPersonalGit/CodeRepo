@@ -1,4 +1,4 @@
 .settings/
-bin/
+bin/test/*.class
 .classpath
 *.class

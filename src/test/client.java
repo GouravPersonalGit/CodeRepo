@@ -1,6 +1,6 @@
 package test;
 
-public class Login {
+public class client {
 	
 	public static void main(String asd[]) {
 		System.out.println("hello");	
